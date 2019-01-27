@@ -1,2 +1,2 @@
 # HW2-LZW-Binary-Tree
-Passed all test cases
+Passed all test cases!
