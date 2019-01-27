@@ -1,0 +1,34 @@
+1) t1-1.txt
+computer 1 1
+
+2) t2-1.txt
+computer engineering 1 1
+
+3) t2-2.txt
+engineering software application 0
+university 2 2 4
+
+4) t2-3.txt
+software 1 3
+
+5) t3-1.txt
+sabanci 1 201
+
+6) t3-2.txt
+zonked abandoned boundary call seat 0
+
+7) t3-3.txt
+understood great 1 89
+charming slap 3 41, 47, 135
+
+8) t3-4.txt
+rule zoo yak mass 0
+unequaled womanly wooden 0
+
+9) t3-5.txt
+ambitious  fluffy  appear  low  secretary  hesitant  elastic  base  marvelous  tumble  damaged  next  wave  afford  smash  call  faded  birds  deserve  envious  shallow  yak  successful  wrathful  utter  book  shame  important  wet  beds  greet  ticket  aberrant  paddle  exotic  desk  pig  hammer  race  greedy  computer  bead  incredible  condition  disapprove  calculating  lace  rub  careful  hulking 1 1
+
+10) t3-6.txt
+(No querry)
+
+
